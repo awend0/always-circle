@@ -6,4 +6,4 @@
 5) Repeat from step 3
 As result, we're always getting something like circle
 
-![Demo]https://github.com/awend0/always-circle/blob/main/always-circle.gif?raw=true)
+![Demo](https://github.com/awend0/always-circle/blob/main/always-circle.gif?raw=true)
