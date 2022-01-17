@@ -5,3 +5,5 @@
 4) Connect them
 5) Repeat from step 3
 As result, we're always getting something like circle
+
+![Demo](https://https://github.com/awend0/always-circle/blob/main/always-circle.gif)
